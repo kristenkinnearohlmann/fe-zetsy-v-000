@@ -49,6 +49,10 @@ header a {
   text-decoration: none;
 }
 
+.class {
+  font-size: .5em;
+}
+
 #featured img {
   border: 5px solid rgb(152,173,166);
 }
